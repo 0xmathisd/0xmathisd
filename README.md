@@ -1,4 +1,4 @@
-## 👋Hi there, i'm working on
+## 👋Hi there, I'm working on
 - Web Platform Development
 - Web3 on EVM Chains
 - Delegated SaaS platform
